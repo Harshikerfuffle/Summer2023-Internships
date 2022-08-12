@@ -145,6 +145,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Quantcast](https://jobs.lever.co/quantcast/54c549a1-10cc-4942-8765-c7ffdf253b1d) | San Francisco, CA | Software Engineering Intern |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002?gh_src=13c38d562us) | Mountain View, CA | Software Engineer Intern |
+| [Tesla](https://www.tesla.com/careers/search/job/mobile-robotics-tesla-bot-controls-internship-141586) | Palo Alto, CA | Mobile Robotics / Tesla Bot - Controls Internship + multiple other roles |
+| [Nissan](https://www.linkedin.com/jobs/view/software-engineering-intern-connected-customer-experience-services-at-nissan-motor-corporation-3171514800/) | San Jose, CA | Software Engineering Intern - Connected Customer Experience Services |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
